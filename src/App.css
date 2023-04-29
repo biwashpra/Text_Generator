@@ -1,0 +1,15 @@
+
+.main-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+
+}
+.semi-main {
+  padding: 10px;
+}
+
+.semi-main div {
+  justify-content: center;
+  text-align: center;
+}
